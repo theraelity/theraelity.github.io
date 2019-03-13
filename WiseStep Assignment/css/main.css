@@ -1,0 +1,36 @@
+*{
+    font-family: 'Sniglet', cursive;
+    font-weight: 300;
+}
+
+#heading{
+    padding-top: 5%;
+    color: aliceblue;
+    text-align: center;
+    font-weight: bolder;
+}
+
+body,html{
+    height: 10%;
+    margin: 0%;
+    background: url('https://www.digitalplatforms.co.za/wp-content/uploads/2015/11/Website-Design-Background.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#innerContainer{
+    opacity: 10%;
+    padding-top: 5%;
+    font-size: 150%;
+    width: 70%;
+    margin: 5% 0% 0% 15%;
+}
+
+label{
+    color: aliceblue;
+}
+
+#inputText{
+    resize: none;
+    height: 150px;
+}
